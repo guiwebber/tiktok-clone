@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <div className="appVideos">
         <Video />
+        <Video />
       </div>
     </div>
   );
