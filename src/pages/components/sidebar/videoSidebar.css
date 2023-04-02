@@ -11,3 +11,9 @@ border-radius: 10px;
   padding: 20px;
   text-align: center;
 }
+
+@media only screen and (max-width:440px) {
+ .videoSidebar {
+  top: 45%
+ }
+}
